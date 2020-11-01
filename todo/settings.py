@@ -114,7 +114,7 @@ USE_L10N = True
 
 USE_TZ = True
 
-ALLOWED_HOSTS = ['ec2-34-226-191-19.compute-1.amazonaws.com','172.31.24.99', 'localhost', '127.0.0.1','34.226.191.19']
+ALLOWED_HOSTS = ['ec2-54-205-35-247.compute-1.amazonaws.com','54.205.35.247','ec2-34-226-191-19.compute-1.amazonaws.com','172.31.24.99', 'localhost', '127.0.0.1','34.226.191.19']
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
